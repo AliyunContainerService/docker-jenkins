@@ -1,4 +1,3 @@
-## jenkins-slave-dind-python  
 
 ### Description
 jenkins with nodejs slave
