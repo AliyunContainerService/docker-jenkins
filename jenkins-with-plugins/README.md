@@ -8,9 +8,6 @@ Use it with docker-compose
 ```
 jenkins:
     image: 'registry.aliyuncs.com/acs-sample/jenkins:latest'
-    ports:
-        - '8080:8080'
-        - '50000:50000'
     volumes:
         - '/var/lib/docker/jenkins:/var/jenkins_home'
     privileged: true
