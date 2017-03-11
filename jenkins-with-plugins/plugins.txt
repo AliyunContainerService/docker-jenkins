@@ -10,3 +10,4 @@ authentication-tokens:1.1
 icon-shim:1.0.3
 docker-commons:1.4.0
 aliyun-container-service-deploy:0.1.1
+gitlab-plugin:1.4.5
