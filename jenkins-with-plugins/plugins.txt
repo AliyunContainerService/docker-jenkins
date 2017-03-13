@@ -10,4 +10,7 @@ authentication-tokens:1.1
 icon-shim:1.0.3
 docker-commons:1.4.0
 aliyun-container-service-deploy:0.1.1
+structs:1.6
+workflow-step-api:2.9
+plain-credentials:1.4
 gitlab-plugin:1.4.5
