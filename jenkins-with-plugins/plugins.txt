@@ -58,4 +58,4 @@ workflow-scm-step:2.5
 workflow-step-api:2.12
 workflow-support:2.14
 jackson2-api:2.7.3
-pipeline-model-extensions:1.1.1
+pipeline-model-extensions:1.1.9
