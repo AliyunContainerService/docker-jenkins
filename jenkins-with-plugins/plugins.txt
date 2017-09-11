@@ -35,7 +35,7 @@ pipeline-model-declarative-agent:1.1.1
 pipeline-model-definition:1.1.9
 pipeline-rest-api:2.9
 pipeline-stage-step:2.2
-pipeline-stage-tags-metadata:1.0.2
+pipeline-stage-tags-metadata:1.1.9
 pipeline-stage-view:2.9
 plain-credentials:1.4
 scm-api:2.2.1
