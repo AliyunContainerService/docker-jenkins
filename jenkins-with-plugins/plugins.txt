@@ -58,4 +58,4 @@ workflow-multibranch:2.14
 workflow-scm-step:2.4
 workflow-step-api:2.9
 workflow-support:2.13
-yet-another-docker-plugin:0.1.0-rc46
+yet-another-docker-plugin:0.1.0-rc31
