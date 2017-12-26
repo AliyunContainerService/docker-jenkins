@@ -3,6 +3,7 @@ aliyun-container-service-deploy:0.1.1
 authentication-tokens:1.1
 bouncycastle-api:2.16.0
 branch-api:2.0.8
+cloud-stats:0.16
 cloudbees-folder:6.0.2
 credentials:2.1.13
 credentials-binding:1.10
@@ -57,3 +58,4 @@ workflow-multibranch:2.14
 workflow-scm-step:2.4
 workflow-step-api:2.9
 workflow-support:2.13
+yet-another-docker-plugin:0.1.0-rc46
